@@ -1,0 +1,203 @@
+{
+  "dashboard": {
+    "home": {
+      "p": "Coming Soon | QBite Dashboard"
+    },
+    "meals": {
+      "table": {
+        "headers": {
+          "1": "Id",
+          "2": "Image",
+          "3": "Name",
+          "4": "Category",
+          "5": "Price",
+          "6": "Operations"
+        }
+      },
+      "head": "All Meals",
+      "button": "Download Report",
+      "create": {
+        "title": "Create Dish",
+        "button": "Submit",
+        "images": {
+          "title": "Dish Images",
+          "p": "upload your dish images"
+        },
+        "info": {
+          "title": "Dish Info",
+          "p": "Enter your dish info",
+          "inputs": {
+            "1": "Name",
+            "2": "Price",
+            "3": "Description"
+          }
+        },
+        "Category": {
+          "title": "Dish Category",
+          "p": "Choose your dish category",
+          "input": "Choose Category"
+        },
+        "data": {
+          "title": "Dish Data",
+          "p": "Write your dish data"
+        },
+        "language": {
+          "title": "Dish Language",
+          "p": "Choose your dish language"
+        }
+      },
+      "edit": {
+        "title": "Edit Dish",
+        "button": "Edit",
+        "images": {
+          "title": "Dish Images",
+          "p": "upload your dish images"
+        },
+        "info": {
+          "title": "Dish Info",
+          "p": "Enter your dish info",
+          "inputs": {
+            "1": "Name",
+            "2": "Price",
+            "3": "Description"
+          }
+        },
+        "Category": {
+          "title": "Dish Category",
+          "p": "Choose your dish category",
+          "input": "Choose Category"
+        },
+        "data": {
+          "title": "Dish Data",
+          "p": "Write your dish data"
+        },
+        "language": {
+          "title": "Dish Language",
+          "p": "Choose your dish language"
+        }
+      }
+    },
+    "categories": {
+      "table": {
+        "headers": {
+          "1": "Id",
+          "2": "Image",
+          "3": "Name",
+          "4": "Edit",
+          "5": "Delete"
+        }
+      },
+      "head": "All Categories",
+      "button": "Download Report",
+      "editButton": "Add"
+    },
+    "QBite": {
+      "save": "Save",
+      "download": "Download",
+      "logo": {
+        "1": "Use Logo",
+        "2": "Don't Use Logo"
+      },
+      "controllers": {
+        "1": "Single Color",
+        "2": "Gradient"
+      }
+    },
+    "support": {
+      "title1": "Welcome To",
+      "title2": "QBite Support",
+      "p": "Please provide your details below, out team will connect to you shortly",
+      "input1": "Full Name",
+      "input2": "Email",
+      "input3": "Description",
+      "button": "Submit"
+    },
+    "user": {
+      "changeEmail": {
+        "title": "changing Email",
+        "p": "Please enter your correct information, so we can achieve your process",
+        "inputs": {
+          "1": "Your Email",
+          "2": "New Email",
+          "3": "Your Password",
+          "4": "Confirm Password"
+        },
+        "button": "Submit"
+      },
+      "changePassword": {
+        "title": "Reset Password",
+        "p": "Please enter your correct information, so we can achieve your process",
+        "inputs": {
+          "1": "Your Email",
+          "2": "Your Password",
+          "3": "New Password",
+          "4": "Confirm Password"
+        },
+        "button": "Submit"
+      },
+      "userInfo": {
+        "title": "Update user information",
+        "p": "Please enter your correct information, so we can achieve your process",
+        "inputs": {
+          "1": "First Name",
+          "2": "Last Name",
+          "3": "Choose your country",
+          "4": "Choose you city",
+          "5": "Phone Number"
+        },
+        "button": "Update"
+      },
+      "deleteAccount": {
+        "title": "Delete Account",
+        "p1": "Deleting your account will lead to delete all your data and Information, maybe you have to think a little bit more before taking this action.",
+        "p2": "If you have any problem just send it using support section and we can fix it, but if you are resolute to do it, we hope to tell us what was the reason.",
+        "button": "Delete"
+      }
+    },
+    "restaurant": {
+      "page1": {
+        "title": "Update Logo & Background",
+        "p": "Choosing the right logo makes your menu more attractive to clients",
+        "button": "Update"
+      },
+      "page2": {
+        "title": "Update worktime",
+        "p": "Write the right information about your restaurant to the client",
+        "input1": "Opening time",
+        "input2": "Closing time",
+        "button": "Update"
+      },
+      "page3": {
+        "title": "Restaurant Information",
+        "p": "Write the right information about your restaurant to the client",
+        "inputs": {
+          "1": "Restaurant name",
+          "2": "Choose your country",
+          "3": "Choose your city",
+          "4": "Phone Number"
+        },
+        "button": "Update"
+      },
+      "page4": {
+        "title": "Update Theme",
+        "p": "Choosing the right Theme makes your menu more attractive to clients",
+        "inputs": {
+          "1": "Primary Color",
+          "2": "Secondary Color",
+          "3": "Background Color"
+        },
+        "button": "Update"
+      },
+      "page5": {
+        "title": "Restaurant Description",
+        "p": "Write the right information about your restaurant to the client",
+        "inputs": {
+          "1": "Username",
+          "2": "Restaurant Description",
+          "3": "Restaurant Slogan"
+        },
+        "button": "Update"
+      }
+    }
+  }
+}
