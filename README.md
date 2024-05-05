@@ -1,3 +1,7 @@
+## What is qbite dashboard
+
+Qbite helps restaurants make QR codes and manage their menus. It lets them customize the design with different colors, making it attractive for customers. The menu can be in different languages and show prices in different currencies. It makes it easier for customers to understand and order food.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
