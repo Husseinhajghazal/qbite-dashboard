@@ -2,7 +2,7 @@
 Q-Bite is an online platform that empowers restaurant owners to create fully customizable menus linked to QR codes. With Q-Bite, you can easily modify colors, update your logo, and add, edit, or remove meals—all without any coding knowledge. The platform supports both Arabic and English, ensuring a seamless experience for your diverse customer base. Tailor your menu to reflect your brand and style, and offer your customers a modern, interactive dining experience.
 
 # Website Link
-You can access the Q-Bite website using the following link: [Q-Bite](https://q-bite.net/)
+You can access the Q-Bite website using the following link: [Q-Bite](https://qbite-client-husseinhajghazals-projects.vercel.app/)
 
 # Technologies Used
 
